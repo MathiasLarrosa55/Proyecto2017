@@ -1,0 +1,23 @@
+{
+  "name": "gaequipo",
+  "version": "1.0.0",
+  "description": "proyecto jovenes a programar",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MathiasLarrosa55/Proyecto2017.git"
+  },
+  "author": "Mathias Larrosa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MathiasLarrosa55/Proyecto2017/issues"
+  },
+  "homepage": "https://github.com/MathiasLarrosa55/Proyecto2017#readme",
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  },
+  "devDependencies": {}
+}
